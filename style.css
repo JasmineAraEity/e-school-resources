@@ -1,0 +1,49 @@
+.nav-bar{
+    
+    background-color:#F0FFF0;
+    width:100%;
+    margin-bottom: 100px;
+
+}
+h1{
+    font-size: 50px;
+}
+.btn-outline-success{
+    background-color:#21b573;
+    color: white;
+    border-radius: 33%;
+    height: 43px;
+    width: 104px;
+    text-align: center;
+    border: none;
+
+}
+.learn-with-fun{
+    margin: 60px 60px;
+}
+#schedule{
+    color: #21b573;
+}
+.card-img{
+    height: 100px;
+    width: 90px;
+}
+.card{
+    background-color:#F0FFF0 ;
+    align-items: center;
+    padding: 20px 20px;
+    
+}
+.categories{
+    margin-bottom: 50px;
+}
+.card:hover {
+    background-color:white;
+    box-shadow: 5px 5px 10px lightgray;
+  }
+.card-title{
+    text-align:center;
+}
+.card-text{
+    text-align:center;
+}
