@@ -16,6 +16,7 @@ h1{
     width: 104px;
     text-align: center;
     border: none;
+    cursor: pointer;
 
 }
 .learn-with-fun{
@@ -28,11 +29,15 @@ h1{
     height: 100px;
     width: 90px;
 }
-.card{
+.categories .card{
     background-color:#F0FFF0 ;
     align-items: center;
     padding: 20px 20px;
+    border-radius: 10px;
     
+}
+.card{
+    border: none;
 }
 .categories{
     margin-bottom: 50px;
@@ -41,9 +46,43 @@ h1{
     background-color:white;
     box-shadow: 5px 5px 10px lightgray;
   }
-.card-title{
+  .categories .card-title{
     text-align:center;
 }
-.card-text{
+.categories .card-text{
     text-align:center;
 }
+.foot-img1{
+    height: 20px;
+}
+.foot-img2{
+    height: 20px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.online-courses{
+    margin: 40px 40px;
+    padding-top: 30px;
+}
+.testimonial{
+    margin: 100px 50px;
+    padding-top: 30px;
+}
+.man-img{
+    height: 150px;
+    width: 150px;;
+    padding-top: 30px;
+}
+.test{
+    padding: 20px 40px;
+}
+footer{
+    color:white;
+    background-color: rgb(33, 35, 48);
+}
+footer p{
+    font-size: 13px;
+}
+
